@@ -1,0 +1,148 @@
+courier service	nadh
+things that are necessary in daily life	nadh
+corporate hub	proteins
+citizens	proteins
+hard disk of a computer	dna
+city files	dna
+manufacturing instructions	dna
+book	dna
+rechargeable batteries	glycogen
+supermarkets	glycogen
+offices of chiefs of different departments	endoplasmic reticulum
+classroom	endoplasmic reticulum
+restaurant kitchen	endoplasmic reticulum
+industry	endoplasmic reticulum
+offices where people are working in the building of the municipal government	golgi
+edge of the city	plasma membrane
+police station	lysosome
+hospital	lysosome
+garbage disposal	lysosome
+incenerator	lysosome
+stomach	lysosome
+garbage delivery system	peroxisomes
+restaurants	mitochondria
+electric station	mitochondria
+burger drawers	mitochondria
+power plant	mitochondria
+food production factory	chloroplast
+solar energy plants	chloroplast
+kitchen	chloroplast
+solar panels	chloroplast
+street	cytoskeleton
+metal framework	cytoskeleton
+ready to eat food	atp
+charged battery	atp
+money	atp
+bus	nadph
+street cleaners	peroxysome
+power point	mytochondria
+comb and pieces of paper	electric forces
+earth’s atmosphere	hydrogen electron's orbital
+police station	first line of defense in the body
+guards	macrophages
+constables	t-helper cells
+police inspector	b-lymphocytes
+action force	cytotoxic t-lymphocytes
+colonial invasion in a country	invasion of bacterias
+assembly line	action potential
+two cars taking a day trip	experiment of chromatography
+how long a car can run	main-sequence lifetimes of stars
+school principal	nucleus
+factory manager	nucleus
+restaurant manager	nucleus
+brain	nucleus
+library	nucleus
+school vice-principal	ribosomes
+hamburger cook	ribosomes
+machines	ribosomes
+teacher	golgi apparatus
+container boxes	golgi apparatus
+school janitor	lysosomes
+school main office	nuclear envelope
+cabinets	vacuoles
+school secretary	cytoplasm
+restaurant floor	cytoplasm
+sandwich stuffing	cytoplasm
+school website	chromosome
+staff	cytosol
+factory	cell
+transportation facility	vesicles
+factory gate	cell wall
+security guard	cell wall
+restaurant	cells
+restaurant doors	cell membrane
+windows	cell membrane
+skin	cell membrane
+front counter	golgi body
+heat content	capacitance
+water tank	electric current
+climbing a staircase	voltage
+football	specialization and communication in a cell
+hiking	kirchoff's voltage law
+traffic jam on a highway	nature of a density wave
+key hole	enzymes
+computer	human active memory system
+buying stamps at the post office, when there is a long line of customers	rate-determining step of a reaction
+slowest moving car in traffic	rate-determining step of a reaction
+separating bees and wasps	column chromatography
+two jugglers	dynamic chemical equilibrium
+storage bags	vacuole
+delivery truck	transport vesicles
+car accelerator	proto-oncogenes
+car accelerator stuck in down position	oncogenes
+car brakes	tumor suppressor genes
+jenga	brittle software
+rhinoceros	resonance hybrid
+firefly in a dark room	wave mechanical model
+listening to a game	electroencephalogram
+photocopier machine	dna replication
+book printing	dna replication
+language translation	rna transcription
+language translation	protein translation
+cities	ecosystem
+falling dominoes	propagation of an action potential down a neuron
+blowing of the balloon	breathing mechanism of frogs
+communication with translators	layered architecture
+chocolate distribution	limiting reactant and excess reactant
+working office	eukaryotic cell
+self started business	prokaryotic cell
+college library	operating systems kernel
+a cup of coffee granules	limiting reactant
+engine	limiting reactant
+zipper zip	helicase
+hands holding open two strips of magnet	dna replication binding proteins
+sewing machine	ligase
+inode	process control block
+speaking	message encoding
+lock and key	interaction between drugs and receptor sites
+foot fitting in footprint	interaction between drugs and receptor sites
+human face	monitor
+brain	cpu
+skeleton	motherboard
+pre-frontal lobe	ram
+energy	power supply unit
+hands	keyboard
+senses	mouse
+ear	audio card
+eye	video card
+coral's age calculation	tree's age calculation
+roller coaster	glycolysis
+ball striking a plate	anti-stokes scattering
+ball striking a plate	stokes scattering
+balls and target	median lethal dose
+surface of a balloon	universe
+lock and key	enzyme mechanism
+finding signal in the noise	anova
+hypothalamus	thermostat
+water level in dam and lake	chemical equilibrium
+water and rocks	just-in-time
+police headquerters	adaptive immunity
+cats, mice and cake	ohm's law
+photocopying	transcription
+xerox machine	rna polymerase
+cook	ribosome
+bookmarks	activator protein
+air flowing through a tube	electric circuit
+rope through metal rings	electric circuit
+teenagers at a party	hydrophobic effect
+threat communication in animals	biological signal transduction
