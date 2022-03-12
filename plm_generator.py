@@ -105,7 +105,7 @@ def main(pt,op,model,concept_path):
 
 
 if __name__ == '__main__':
-	openai.api_key = "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"
+	openai.api_key = OPENAI_KEY
 	concept_path = './data/science_concepts.txt'
 	parser = argparse.ArgumentParser(description='Enter configuration')
 	parser.add_argument('--prompt_type', metavar='pt', type=str,
