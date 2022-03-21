@@ -1,0 +1,30 @@
+Prompt:	atom:	Explain atom using an analogy.
+
+An atom is like a tiny solar system. It has a sun (the nucleus) and planets (the electrons).
+Prompt:	heat transfer:	Explain heat transfer using an analogy.
+
+Heat transfer is a bit like people walking around a room. The people are the heat, and the room is the object that is being heated. The more people that walk around the room, the more heat that is transferred to the room.
+Prompt:	sounds:	Explain sounds using an analogy.
+
+The sound of a car horn is like the sound of a person yelling.
+Prompt:	respiration:	Explain respiration using an analogy.
+
+Respiration is like the process of eating food. The food is broken down in the stomach and the energy is released. This energy is used to power the body.
+Prompt:	light:	Explain light using an analogy.
+
+Light is like a bunch of people walking around with flashlights. The light from the flashlight is like the light from the sun.
+Prompt:	planet:	Explain planet using an analogy.
+
+Planet is like a school. It is a place where people learn about things.
+Prompt:	natural selection:	Explain natural selection using an analogy.
+
+One analogy of natural selection is a group of people trying to get through a door. The people who are the strongest and have the most endurance will be able to get through the door. The people who are weaker or have less endurance will not be able to get through the door. This is similar to how natural selection works because the organisms that are the strongest and have the most endurance will be able to survive and reproduce. The organisms that are weaker or have less endurance will not be able to survive and reproduce.
+Prompt:	gas molecules:	Explain gas molecules using an analogy.
+
+Gas molecules are like tiny balls of rubber. They bounce around and move quickly.
+Prompt:	mind:	Explain mind using an analogy.
+
+The mind can be thought of as a computer. The brain is the hardware and the mind is the software. The mind is what allows us to think, learn, and remember.
+Prompt:	bacterial mutation:	Explain bacterial mutation using an analogy.
+
+Mutation is like a game of telephone. The first person whispers a message to the next person, who whispers it to the next person, and so on. By the time the message gets to the last person, it's usually quite different from the original. This is how mutations can happen in bacteria - a mistake in the copying of DNA can lead to a new, mutated gene that's passed on to the next generation.

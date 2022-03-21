@@ -1,0 +1,30 @@
+Prompt:	atom:	Explain atom using a well-known analogy.
+
+Atom is like a tiny solar system. It has a nucleus (sun) and orbiting electrons (planets).
+Prompt:	heat transfer:	Explain heat transfer using a well-known analogy.
+
+Heat transfer is like water flowing through a hose. The water in the hose represents the heat, and the hose itself represents the material that is transferring the heat. The faster the water flows through the hose, the more heat is transferred.
+Prompt:	sounds:	Explain sounds using a well-known analogy.
+
+The sound of a car engine is like the sound of a cat purring.
+Prompt:	respiration:	Explain respiration using a well-known analogy.
+
+Respiration is the process of extracting energy from food and using it to power the body's activities. This can be compared to a car engine, which uses gasoline to create energy that powers the car. In the same way, the body uses food to create energy that powers all of its activities.
+Prompt:	light:	Explain light using a well-known analogy.
+
+Light is like a bunch of people walking down a street. The people are the photons and the street is the light wave.
+Prompt:	planet:	Explain planet using a well-known analogy.
+
+Planet is like a big rock orbiting around the sun.
+Prompt:	natural selection:	Explain natural selection using a well-known analogy.
+
+One of the most famous analogies for natural selection was developed by the British biologist J.B.S. Haldane. He compared natural selection to a sieve. Imagine that you have a jar of mixed nuts. Some of the nuts are big, some are small, and some are in-between. If you shake the jar and then pour the nuts onto a plate, the big nuts will fall out first, followed by the medium-sized nuts, and then the small nuts. This is because the big nuts are heavier than the small nuts. The analogy is that natural selection is like a sieve that separates the fit from the unfit. The fit individuals are more likely to survive and reproduce, while the unfit individuals are more likely to die. Over time, this process will lead to the evolution of new species.
+Prompt:	gas molecules:	Explain gas molecules using a well-known analogy.
+
+Gas molecules are like people in a crowd. They are all moving around and bumping into each other.
+Prompt:	mind:	Explain mind using a well-known analogy.
+
+The mind can be thought of as a computer. The brain is the hardware and the mind is the software.
+Prompt:	bacterial mutation:	Explain bacterial mutation using a well-known analogy.
+
+Bacterial mutation is like a game of telephone. The first bacterium might have a mutation that changes its color from red to blue. The next bacterium might have a mutation that changes its color from blue to green. The next bacterium might have a mutation that changes its color from green to yellow. The next bacterium might have a mutation that changes its color from yellow to orange. The next bacterium might have a mutation that changes its color from orange to red.

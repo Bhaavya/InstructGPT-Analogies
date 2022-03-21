@@ -1,0 +1,30 @@
+Prompt:	atom:	What is analogous to atom?
+
+The atom is analogous to the solar system.
+Prompt:	heat transfer:	What is analogous to heat transfer?
+
+The transfer of thermal energy is analogous to the transfer of electric energy.
+Prompt:	sounds:	What is analogous to sounds?
+
+Analogous to sounds are vibrations.
+Prompt:	respiration:	What is analogous to respiration?
+
+Analogous to respiration is the process of photosynthesis.
+Prompt:	light:	What is analogous to light?
+
+Sound is analogous to light.
+Prompt:	planet:	What is analogous to planet?
+
+A planet is analogous to a country.
+Prompt:	natural selection:	What is analogous to natural selection?
+
+The analogous process to natural selection is artificial selection.
+Prompt:	gas molecules:	What is analogous to gas molecules?
+
+Analogous to gas molecules are atoms.
+Prompt:	mind:	What is analogous to mind?
+
+There is no single answer to this question as it is a matter of philosophical speculation. Some believe that mind is analogous to a computer, while others believe that it is a function of the brain.
+Prompt:	bacterial mutation:	What is analogous to bacterial mutation?
+
+Analogous to bacterial mutation is genetic mutation in other organisms, including humans.

@@ -1,0 +1,30 @@
+Prompt:	atom:	Using an analogy, explain atom.
+
+An atom is like a solar system. The nucleus is like the sun and the electrons are like the planets.
+Prompt:	heat transfer:	Using an analogy, explain heat transfer.
+
+Heat transfer is the process of energy exchange between objects that are at different temperatures. The warmer object will transfer energy to the cooler object until they are both at the same temperature.
+Prompt:	sounds:	Using an analogy, explain sounds.
+
+Sound is like waves in the ocean. They are created by something (a boat, a person, etc.), and they move through the water. The further away you are from the source, the weaker the sound becomes.
+Prompt:	respiration:	Using an analogy, explain respiration.
+
+Respiration is the process of exchanging gases between an organism and its environment. This is done by the process of diffusion, in which the concentration of a gas is equalized on both sides of a membrane.
+Prompt:	light:	Using an analogy, explain light.
+
+Light is like a wave that travels through the air. It is made up of tiny particles called photons.
+Prompt:	planet:	Using an analogy, explain planet.
+
+Planet is like a rock in space. It orbits around the sun and has its own gravitational pull.
+Prompt:	natural selection:	Using an analogy, explain natural selection.
+
+Natural selection is the process by which organisms with favorable heritable traits become more common in a population over time, while those with unfavorable traits become less common.
+Prompt:	gas molecules:	Using an analogy, explain gas molecules.
+
+Gas molecules are like tiny particles that make up a gas. They are constantly moving around and bumping into each other. This is what makes a gas able to flow and fill up a container.
+Prompt:	mind:	Using an analogy, explain mind.
+
+The mind can be thought of as a computer. The brain is the hardware and the mind is the software. The mind is what allows us to think, learn, and remember.
+Prompt:	bacterial mutation:	Using an analogy, explain bacterial mutation.
+
+Mutation is like a genetic change in a bacterial cell. It can be a change in the DNA sequence of a gene or in the number of chromosomes.

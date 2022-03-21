@@ -106,7 +106,7 @@ def main(pt,op,model,concept_path):
 
 if __name__ == '__main__':
 	openai.api_key = OPENAI_KEY
-	concept_path = './data/science_concepts.txt'
+	concept_path = './data/saqa_concepts.txt'
 	parser = argparse.ArgumentParser(description='Enter configuration')
 	parser.add_argument('--prompt_type', metavar='pt', type=str,
 		help='Type of prompts. Enter 1 for analogies without source, 2 for analogies with given sources, 3 for non-analogies.',required=True)

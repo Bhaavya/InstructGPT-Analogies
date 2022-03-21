@@ -1,0 +1,109 @@
+Nadh is a coenzyme found in all living cells. It is involved in the transfer of electrons within the cells and is necessary for the production of energy.	nadh	What is nadh?
+Proteins are organic molecules that play a major role in the body. They are composed of amino acids, which are the building blocks of life. Proteins are essential for the body to grow, repair tissue, and make enzymes and hormones.	proteins	What is proteins?
+DNA is a molecule that encodes the genetic information of a living organism.	dna	What is dna?
+Glycogen is a carbohydrate that is stored in the liver and muscles. It is used to provide energy for the body.	glycogen	What is glycogen?
+Endoplasmic reticulum is a membranous network of tubes and sacs that extends throughout the cytoplasm of a cell. It is involved in the transport and modification of proteins and lipids.	endoplasmic reticulum	What is endoplasmic reticulum?
+Golgi is a type of organelle found in the cytoplasm of cells. It is responsible for the processing and packaging of proteins and other materials that are to be transported out of the cell.	golgi	What is golgi?
+The plasma membrane is a thin, flexible sheet of lipid and protein that surrounds the cells of all living organisms. It is responsible for regulating the passage of molecules in and out of the cell, and for maintaining the cell's internal environment.	plasma membrane	What is plasma membrane?
+Lysosomes are small sac-like organelles that are found in the cytoplasm of all eukaryotic cells. They are membrane-bound vesicles that contain a variety of hydrolytic enzymes that digest macromolecules.	lysosome	What is lysosome?
+Peroxisomes are small organelles in the cytoplasm of cells. They are round or oval in shape and have a single membrane. Peroxisomes are important for the breakdown of fatty acids and the production of hydrogen peroxide.	peroxisomes	What is peroxisomes?
+Mitochondria are organelles in cells that produce energy.	mitochondria	What is mitochondria?
+A chloroplast is a small, round, green organelle found in the cytoplasm of plant cells. It is the site of photosynthesis, the process by which plants produce their own food from sunlight, water, and carbon dioxide.	chloroplast	What is chloroplast?
+Cytoskeleton is a network of protein filaments that helps cells maintain their shape and move.	cytoskeleton	What is cytoskeleton?
+ATP is an abbreviation for adenosine triphosphate, a molecule that is found in all living cells. ATP is essential for the cell to use energy, and it is also involved in many other cellular processes.	atp	What is atp?
+NADPH is a cofactor that is necessary for the production of energy in the body. It is also necessary for the production of new cells.	nadph	What is nadph?
+A peroxysome is a small organelle in the cytoplasm of a cell. It is a type of microbody and is involved in the oxidation of fatty acids.	peroxysome	What is peroxysome?
+The mitochondria are organelles in the cells of the body that are responsible for the conversion of food into energy.	mytochondria	What is mytochondria?
+Electric forces are the forces that arise between electric charges.	electric forces	What is electric forces?
+The hydrogen electron's orbital is the first orbital.	hydrogen electron's orbital	What is hydrogen electron's orbital?
+The skin is the first line of defense in the body.	first line of defense in the body	What is first line of defense in the body?
+Macrophages are cells that are found in the body's tissues and organs. They are responsible for fighting infection and cleaning up dead cells and debris.	macrophages	What is macrophages?
+T-helper cells are a type of white blood cell that helps the body fight infection. They are also called CD4 cells.	t-helper cells	What is t-helper cells?
+B-lymphocytes are a type of white blood cell that helps the body fight infection. They produce antibodies that recognize and attack specific bacteria, viruses, or other foreign substances.	b-lymphocytes	What is b-lymphocytes?
+Cytotoxic T-lymphocytes are a type of white blood cell that play a role in the immune system by destroying cells that are infected or have been damaged.	cytotoxic t-lymphocytes	What is cytotoxic t-lymphocytes?
+The invasion of bacteria is the process by which bacteria enter and colonize tissues and organs. This can lead to infection and inflammation.	invasion of bacterias	What is invasion of bacterias?
+An action potential is a sudden change in the electrical potential of a neuron. This change is caused by the movement of ions across the neuron's membrane.	action potential	What is action potential?
+Chromatography is a technique used to separate the components of a mixture. The mixture is dissolved in a solvent and then passed through a column containing a adsorbent material. The different components of the mixture are adsorbed to the adsorbent material at different rates, and the components can be separated by eluting the column with a different solvent.	experiment of chromatography	What is experiment of chromatography?
+The main-sequence lifetime of a star is the length of time it spends on the main sequence.	main-sequence lifetimes of stars	What is main-sequence lifetimes of stars?
+The nucleus is the central part of an atom. It is made up of protons and neutrons.	nucleus	What is nucleus?
+Ribosomes are small, round, and protein-rich organelles that are found in the cytoplasm of all cells. They are responsible for the synthesis of proteins from amino acids.	ribosomes	What is ribosomes?
+Golgi apparatus is a cellular organelle that is found in the cytoplasm of eukaryotic cells. It is responsible for the processing and packaging of proteins and lipids that are to be transported to other parts of the cell.	golgi apparatus	What is golgi apparatus?
+Lysosomes are small sac-like organelles that are found in the cytoplasm of all eukaryotic cells. They are membrane-bound sacs that contain digestive enzymes.	lysosomes	What is lysosomes?
+The nuclear envelope is a double-layered membrane that surrounds the nucleus of a cell. The nuclear envelope is responsible for maintaining the structure of the nucleus and for controlling the movement of molecules in and out of the nucleus.	nuclear envelope	What is nuclear envelope?
+A vacuole is a membrane-bound organelle that is found in the cytoplasm of all plant and animal cells. Vacuoles are filled with a fluid called cytosol and serve a variety of functions in the cell.	vacuoles	What is vacuoles?
+Cytoplasm is the material inside a cell that is not the nucleus. It contains the cell's organelles and other structures.	cytoplasm	What is cytoplasm?
+A chromosome is a threadlike structure of DNA and protein that is found in the nucleus of cells and is responsible for the transmission of genetic information.	chromosome	What is chromosome?
+Cytosol is the liquid within cells that is not contained within organelles. It is composed of water, proteins, lipids, and other small molecules.	cytosol	What is cytosol?
+A cell is the smallest structural and functional unit of an organism.	cell	What is cell?
+A vesicle is a small, round, fluid-filled sac that is formed in the cells of the body.	vesicles	What is vesicles?
+Cell wall is a type of cell membrane that helps to protect and support the cell.	cell wall	What is cell wall?
+Cells are the smallest living unit of an organism.	cells	What is cells?
+Cell membrane is a thin, flexible sheet of lipid and protein that surrounds the cytoplasm of a cell. It is responsible for the cell's ability to interact with its environment and to maintain its internal organization.	cell membrane	What is cell membrane?
+Golgi body is a cellular organelle that is found in the cytoplasm of eukaryotic cells. It is responsible for the processing and packaging of proteins and lipids that are to be transported to other parts of the cell.	golgi body	What is golgi body?
+Capacitance is the ability of a material to store an electric charge.	capacitance	What is capacitance?
+Electric current is the flow of electric charge through a conductor.	electric current	What is electric current?
+Voltage is the measure of potential energy between two points in an electrical circuit. Voltage is measured in volts.	voltage	What is voltage?
+In a cell, specialization is the process by which different parts of the cell carry out different functions. Communication is the process by which cells send and receive signals to each other.	specialization and communication in a cell	What is specialization and communication in a cell?
+Kirchoff's voltage law states that the sum of the voltages around a closed loop is zero.	kirchoff's voltage law	What is kirchoff's voltage law?
+A density wave is a wave of increased or decreased density in a medium.	nature of a density wave	What is nature of a density wave?
+Enzymes are proteins that catalyze biochemical reactions.	enzymes	What is enzymes?
+The human active memory system is a cognitive system that enables people to remember and use information in their environment. The system includes a number of subsystems, including the sensory memory, the short-term memory, and the long-term memory. These subsystems work together to enable people to remember and use information they encounter in their environment.	human active memory system	What is human active memory system?
+The rate-determining step of a reaction is the slowest step in the reaction.	rate-determining step of a reaction	What is rate-determining step of a reaction?
+Column chromatography is a technique used to separate the components of a mixture. The mixture is placed in a column and a solvent is passed through the column. The components of the mixture are separated based on their different affinities for the solvent.	column chromatography	What is column chromatography?
+Dynamic chemical equilibrium is a state in which the concentrations of reactants and products are in equilibrium.	dynamic chemical equilibrium	What is dynamic chemical equilibrium?
+A vacuole is a membrane-bound organelle that is found in the cytoplasm of all eukaryotic cells.	vacuole	What is vacuole?
+A transport vesicle is a small, membranous sac that transports molecules within a cell. The vesicles are created when the cell membrane pinches in on itself, forming a small bubble. The vesicles then move around the cell, carrying their cargo to the desired destination.	transport vesicles	What is transport vesicles?
+Proto-oncogenes are genes that can cause cancer.	proto-oncogenes	What is proto-oncogenes?
+Oncogenes are genes that have the potential to cause cancer. They are normal genes that have been mutated, or changed, so that they can cause cancer.	oncogenes	What is oncogenes?
+Tumor suppressor genes are genes that help to prevent the development of tumors. These genes help to maintain the normal function of cells and tissues, and when they are mutated or deleted, tumors can develop.	tumor suppressor genes	What is tumor suppressor genes?
+Brittle software is software that is difficult to change or update. This is often due to the software being poorly designed or written in a way that makes it difficult to modify.	brittle software	What is brittle software?
+A resonance hybrid is a model of a molecule that is composed of two or more Lewis structures. The resonance hybrid is composed of the most stable Lewis structures, and it is used to predict the properties of the molecule.	resonance hybrid	What is resonance hybrid?
+Wave mechanical model is a model that explains the behavior of matter in terms of waves.	wave mechanical model	What is wave mechanical model?
+An electroencephalogram (EEG) is a test that measures the electrical activity of your brain. This test is used to help diagnose problems with your brain, such as seizures.	electroencephalogram	What is electroencephalogram?
+DNA replication is the process by which a DNA molecule is duplicated. The process begins with the separation of the two strands of the DNA molecule. Each strand is then used as a template for the synthesis of a new strand of DNA.	dna replication	What is dna replication?
+RNA transcription is the process by which a gene is copied into RNA.	rna transcription	What is rna transcription?
+Protein translation is the process by which a protein is created from a gene. The gene is first transcribed into RNA, and then the RNA is translated into a protein.	protein translation	What is protein translation?
+An ecosystem is a community of different species of living organisms and their physical environment.	ecosystem	What is ecosystem?
+Propagation of an action potential down a neuron is the process by which an action potential travels down the neuron. This process is mediated by the neuron's membrane potential and involves the movement of ions across the neuron's membrane.	propagation of an action potential down a neuron	What is propagation of an action potential down a neuron?
+The frog's breathing mechanism is unique. It uses its skin to breathe. The frog's skin is very thin and it has a lot of blood vessels. The frog's blood carries oxygen from its lungs to the rest of its body. When the frog is not moving, it uses its skin to breathe. When the frog is moving, it uses its lungs to breathe.	breathing mechanism of frogs	What is breathing mechanism of frogs?
+Layered architecture is a software design pattern that divides an application into layers. Each layer is responsible for a specific set of tasks, and each layer is built on top of the layers below it. This approach helps to organize and simplify an application's codebase.	layered architecture	What is layered architecture?
+A limiting reactant is the reactant that is in shortest supply and therefore limits the amount of product that can be formed. An excess reactant is a reactant that is in excess of the amount needed to react with the limiting reactant.	limiting reactant and excess reactant	What is limiting reactant and excess reactant?
+A eukaryotic cell is a type of cell that has a membrane-bound nucleus and other organelles enclosed within membranes.	eukaryotic cell	What is eukaryotic cell?
+A prokaryotic cell is a type of cell that does not have a nucleus.	prokaryotic cell	What is prokaryotic cell?
+The kernel is the most important part of an operating system, providing basic services for all other parts of the system. It manages memory, processes, and devices, and it also provides essential low-level services for applications.	operating systems kernel	What is operating systems kernel?
+A limiting reactant is the reactant in a chemical reaction that is in shortest supply. The reaction will stop when the limiting reactant is used up.	limiting reactant	What is limiting reactant?
+Helicase is a protein that helps to unwind DNA strands.	helicase	What is helicase?
+DNA replication binding proteins are proteins that bind to DNA and help to replicate it. They are important for ensuring that the DNA is accurately copied during replication.	dna replication binding proteins	What is dna replication binding proteins?
+Ligase is an enzyme that catalyzes the formation of a covalent bond between two molecules.	ligase	What is ligase?
+A process control block (PCB) is a data structure in a computer operating system that describes a process, its state, and its resources.	process control block	What is process control block?
+Message encoding is the process of transforming a message into a format that can be transmitted over a communication channel. The format may be a character encoding, such as ASCII or Unicode, or a binary encoding, such as Base64 or Hexadecimal.	message encoding	What is message encoding?
+Interaction between drugs and receptor sites is the way that drugs work. Receptor sites are the places on cells where drugs attach and cause a response.	interaction between drugs and receptor sites	What is interaction between drugs and receptor sites?
+A monitor is a device that displays information on a screen.	monitor	What is monitor?
+CPU is an acronym for Central Processing Unit. It is the electronic circuitry within a computer that carries out the instructions of a computer program by performing the basic arithmetical, logical, and input/output operations of the system.	cpu	What is cpu?
+A motherboard is the main printed circuit board (PCB) in a computer. It holds many of the crucial components of the system, such as the central processing unit (CPU), memory, and the graphics card. It also has connectors for attaching other peripherals, such as storage devices, optical drives, and displays.	motherboard	What is motherboard?
+Ram is a type of computer memory that is used to store data and instructions for use by the central processing unit (CPU). Ram is a volatile memory type, which means that it loses its data when the power is turned off.	ram	What is ram?
+A power supply unit (PSU) is an electronic device that supplies electric power to an electrical load. The primary function of a PSU is to convert AC to DC power. A PSU also regulates the voltage to the load.	power supply unit	What is power supply unit?
+A keyboard is a device that is used to input text into a computer.	keyboard	What is keyboard?
+A mouse is a small rodent that is typically used as a input device for a computer.	mouse	What is mouse?
+An audio card is a computer expansion card that allows the computer to send and receive audio signals.	audio card	What is audio card?
+A video card, also called a graphics card, is a type of computer hardware that outputs images and video. It is an essential component of a computer system, as it enables the display of images on a monitor.	video card	What is video card?
+The age of a tree can be calculated by counting the number of rings in the trunk.	tree's age calculation	What is tree's age calculation?
+Glycolysis is the process of breaking down glucose into two molecules of pyruvate.	glycolysis	What is glycolysis?
+Anti-Stokes scattering is the scattering of light or other forms of electromagnetic radiation in the opposite direction to the incident radiation.	anti-stokes scattering	What is anti-stokes scattering?
+Stokes scattering is the scattering of light by particles in a medium. The light is scattered in all directions and the intensity of the scattered light is proportional to the fourth power of the wavelength.	stokes scattering	What is stokes scattering?
+The median lethal dose (LD50) is the dose of a substance that kills 50% of the test population.	median lethal dose	What is median lethal dose?
+The universe is everything that exists, including all matter and energy.	universe	What is universe?
+Enzyme mechanism is the process by which enzymes catalyze biochemical reactions.	enzyme mechanism	What is enzyme mechanism?
+An ANOVA is a statistical test used to compare the means of three or more groups.	anova	What is anova?
+A thermostat is a device that regulates the temperature of a system.	thermostat	What is thermostat?
+Chemical equilibrium is when the rates of the forward and reverse reactions are equal.	chemical equilibrium	What is chemical equilibrium?
+Just-in-time is a business model that strives to improve a company's efficiency by reducing the amount of inventory that is held. The goal is to have just enough inventory on hand to meet customer demand. This is accomplished by closely monitoring sales and ordering new inventory only when it is needed.	just-in-time	What is just-in-time?
+Adaptive immunity is the branch of immunity that is specific to a particular antigen. It is acquired through exposure to the antigen, either through natural infection or vaccination.	adaptive immunity	What is adaptive immunity?
+Ohm's law states that the current through a conductor between two points is directly proportional to the potential difference between those points.	ohm's law	What is ohm's law?
+Transcription is the process of converting written text into a spoken language.	transcription	What is transcription?
+RNA polymerase is an enzyme that catalyzes the transcription of DNA into RNA.	rna polymerase	What is rna polymerase?
+A ribosome is a small particle within a cell that is responsible for creating proteins.	ribosome	What is ribosome?
+Activator protein is a protein that helps to activate other proteins. It is responsible for starting the process that leads to the formation of new proteins.	activator protein	What is activator protein?
+An electric circuit is a path in which electrons flow to create an electric current.	electric circuit	What is electric circuit?
+The hydrophobic effect is the tendency of nonpolar molecules to aggregate in an aqueous environment.	hydrophobic effect	What is hydrophobic effect?
+Biological signal transduction is the process by which a signal from one molecule is converted into a signal that can be used by another molecule. This process is used by cells to respond to their environment and to communicate with each other.	biological signal transduction	What is biological signal transduction?

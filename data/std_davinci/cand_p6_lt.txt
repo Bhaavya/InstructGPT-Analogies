@@ -1,0 +1,30 @@
+Prompt:	atom:	What is a well-known analogy to explain atom?
+
+A atom is like a solar system with the nucleus being the sun and the electrons orbiting around it.
+Prompt:	heat transfer:	What is a well-known analogy to explain heat transfer?
+
+A well-known analogy to explain heat transfer is the flow of water in a river. The water in the river is constantly moving and transferring heat to the surrounding environment.
+Prompt:	sounds:	What is a well-known analogy to explain sounds?
+
+A sound is like a wave in the ocean.
+Prompt:	respiration:	What is a well-known analogy to explain respiration?
+
+A well-known analogy to explain respiration is the process of a car engine. The engine takes in fuel (oxygen) and releases energy (carbon dioxide).
+Prompt:	light:	What is a well-known analogy to explain light?
+
+A well-known analogy to explain light is that it is like a river. Just as a river flows downhill, light travels in the direction of the lowest potential energy.
+Prompt:	planet:	What is a well-known analogy to explain planet?
+
+A planet is like a ship sailing in the sea.
+Prompt:	natural selection:	What is a well-known analogy to explain natural selection?
+
+A well-known analogy to explain natural selection is the "survival of the fittest." This analogy compares the process of natural selection to the process of survival of animals in the wild. The fittest animals are the ones that are best able to survive and reproduce.
+Prompt:	gas molecules:	What is a well-known analogy to explain gas molecules?
+
+A gas molecule is like a tiny, invisible, flying bullet.
+Prompt:	mind:	What is a well-known analogy to explain mind?
+
+A mind is like a computer.
+Prompt:	bacterial mutation:	What is a well-known analogy to explain bacterial mutation?
+
+A bacterial mutation is like a game of telephone. The first bacterium might have a mutation that changes its color. The next bacterium might inherit that mutation and change its color, too. The next bacterium might inherit that mutation and change its color, and so on. Over time, the mutation can spread through the entire population of bacteria, even if it doesn’t make them any better at surviving.

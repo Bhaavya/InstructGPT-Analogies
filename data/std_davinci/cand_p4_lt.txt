@@ -1,0 +1,30 @@
+Prompt:	atom:	Using a well-known analogy, explain atom.
+
+Atom is like a drop of water in the ocean. Just as a drop of water is part of the ocean, an atom is part of the larger universe.
+Prompt:	heat transfer:	Using a well-known analogy, explain heat transfer.
+
+Heat transfer is like a fluid flowing through a pipe. The hotter fluid (the fire) is on one end, and the cooler fluid (the room air) is on the other. The heat flows from the fire to the room until the two fluids are the same temperature.
+Prompt:	sounds:	Using a well-known analogy, explain sounds.
+
+A sound is like a wave that travels through the air, or any other medium. The wave causes the air to vibrate, and our ears detect these vibrations.
+Prompt:	respiration:	Using a well-known analogy, explain respiration.
+
+Respiration is the process of exchanging gases between an organism and its environment. This is done by the process of diffusion, in which molecules move from an area of high concentration to an area of low concentration. In respiration, oxygen is taken in from the environment and carbon dioxide is released.
+Prompt:	light:	Using a well-known analogy, explain light.
+
+Light is like a river. It is made up of many tiny particles that flow together.
+Prompt:	planet:	Using a well-known analogy, explain planet.
+
+Planet is like a grapefruit. It is a large, round object that orbits around a star. It has a thin atmosphere that surrounds it. It has a rocky surface that is covered in water.
+Prompt:	natural selection:	Using a well-known analogy, explain natural selection.
+
+Natural selection is the process by which organisms with favorable heritable traits become more common in a population over time, while those with unfavorable traits become less common.
+Prompt:	gas molecules:	Using a well-known analogy, explain gas molecules.
+
+Gas molecules are like people in a crowd. They are constantly moving around and bumping into each other.
+Prompt:	mind:	Using a well-known analogy, explain mind.
+
+The mind can be thought of as a computer. It takes in information from the environment through the senses, processes that information, and outputs a response.
+Prompt:	bacterial mutation:	Using a well-known analogy, explain bacterial mutation.
+
+Mutation is like a game of dice. Just as with dice, you never know what you are going to get, but with bacterial mutation you also do not know the consequences.

@@ -1,0 +1,30 @@
+Prompt:	atom:	What analogy is often used to explain atom?
+
+A atom is like a solar system with the nucleus being the sun and the electrons orbiting around it.
+Prompt:	heat transfer:	What analogy is often used to explain heat transfer?
+
+A common analogy used to explain heat transfer is the flow of water in a river. Just as the water in the river flows from high to low pressure, heat flows from high to low pressure.
+Prompt:	sounds:	What analogy is often used to explain sounds?
+
+A sound is often compared to a wave.
+Prompt:	respiration:	What analogy is often used to explain respiration?
+
+Respiration is often compared to a car's engine. The engine takes in fuel (oxygen) and converts it into energy (carbon dioxide). The car's exhaust system releases the carbon dioxide and brings in fresh air. In the same way, the lungs take in oxygen and release carbon dioxide.
+Prompt:	light:	What analogy is often used to explain light?
+
+Light is often compared to a stream of water. Just as a stream of water can be directed in different ways by using different objects, light can be directed in different ways by using different objects.
+Prompt:	planet:	What analogy is often used to explain planet?
+
+Planet is often compared to a ship. Just as a ship needs a captain to guide it on its journey, a planet needs a governor to control it and keep it on track.
+Prompt:	natural selection:	What analogy is often used to explain natural selection?
+
+The analogy of natural selection is often used to explain how evolution works. It is said that natural selection is like a "filter" that helps to determine which traits will become more common in a population over time. This is because individuals that have certain traits (such as those that help them survive and reproduce) are more likely to survive and pass on their genes to the next generation.
+Prompt:	gas molecules:	What analogy is often used to explain gas molecules?
+
+A gas molecule is often compared to a billiard ball. The molecules are in constant motion and bounce off of one another and the walls of the container.
+Prompt:	mind:	What analogy is often used to explain mind?
+
+The mind is often compared to a computer.
+Prompt:	bacterial mutation:	What analogy is often used to explain bacterial mutation?
+
+A bacterial mutation is often compared to a human mutation. Just as humans can inherit new traits from their parents, bacteria can also inherit new traits from their parents. This can happen when a bacterium splits in two, and each half gets a new copy of the DNA.
