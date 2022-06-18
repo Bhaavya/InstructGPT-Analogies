@@ -1,5 +1,7 @@
 # InstructGPT-Analogies
 
+Code and Data associated with the INLG'22 `Analogy Generation by Prompting Large Language Models: A Case Study of InstructGPT` paper
+
 
 
 ## Data
